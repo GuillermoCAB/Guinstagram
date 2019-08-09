@@ -8,7 +8,7 @@ const io = require('socket.io')(server);
 
 
 
-mongoose.connect('mongodb+srv://guigabenitez:@cluster0-oog59.mongodb.net/test?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://guigabenitez:beta123alfa@cluster0-oog59.mongodb.net/test?retryWrites=true&w=majority', {
     useNewUrlParser: true,    
 });
 
